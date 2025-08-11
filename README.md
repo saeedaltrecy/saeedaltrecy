@@ -34,7 +34,7 @@
 - **Features**:
   - Responsive design
   - Secure payment flow
-  - User-friendly dashboard
+   
 
 ### 2. Arab Gypsum
 - **Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)
