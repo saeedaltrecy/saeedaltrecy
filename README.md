@@ -6,12 +6,9 @@
 </div>
 
 ## 🌟 Profile
-**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences. I focus on:
-- Creating attractive and intuitive user interfaces
-- Developing interactive and performant web applications
-- Ensuring excellent user experience (UX)
+**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences.
 
-## 🎨 Design & Development Skills
+## 🎨 Skills
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -29,26 +26,30 @@
 ## 🏆 Featured Projects
 
 ### 1. BinDowalPay
-- **Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)
-- **Description**: Payment platform interface
-- **Features**:
-  - Responsive design
-  - Secure payment flow
-   
+[![BinDowalPay Screenshot](https://via.placeholder.com/800x400?text=BinDowalPay+Screenshot)](https://bindowalpay.arabwaredos.com/)
+
+**Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)  
+**Technologies**: HTML5, CSS3, JavaScript, Vue.js, Tailwind CSS  
+**Features**:
+- Responsive payment interface
+- Secure transaction flow
+- Dashboard analytics
 
 ### 2. Arab Gypsum
-- **Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)
-- **Description**: Corporate website for gypsum products
-- **Features**:
-  - Modern UI design
-  - Product showcase
-  - Multi-language support
+[![Arab Gypsum Screenshot](https://via.placeholder.com/800x400?text=Arab+Gypsum+Screenshot)](https://arabgypsum.com/ar)
 
-## 🛠 Work Tools
-- **Design**: Figma (exclusively)
+**Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)  
+**Technologies**: HTML5, CSS3, JavaScript, React  
+**Features**:
+- Modern corporate design
+- Product catalog system
+- Arabic/English language support
+
+## 🛠 Workflow
+- **Design**: Figma
 - **Development**: VS Code
 - **Version Control**: Git/GitHub
-- **Testing**: Browser DevTools
+- **Testing**: Chrome DevTools
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -56,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue" alt="Top Languages">
 </div>
 
-## 📫 Contact Me
+## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
