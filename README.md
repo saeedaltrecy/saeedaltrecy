@@ -1,76 +1,26 @@
-# 🎨 Saeed Al-Turaisi - Frontend Developer & UI/UX Designer
+<h1 align="center">Hi 👋, I'm saeedaltrecy</h1>
+<h3 align="center">I love transforming ideas into beautiful interactive interfaces using React.js, JavaScript, and HTML/CSS. I'm constantly striving to learn new technologies and skills to create great user experiences.</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38B2AC&center=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Digital+Experience+Creator" alt="Typing Animation">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedaltrecy&label=Profile%20views&color=0e75b6&style=flat" alt="saeedaltrecy" /> </p>
 
-## 🌟 Professional Profile
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/profile-banner.png" width="800" alt="Professional Banner">
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedaltrecy" alt="saeedaltrecy" /></a> </p>
 
-**Specializing in crafting elegant digital experiences** with:
-- ✨ Pixel-perfect UI implementations
-- 🎯 User-centered design principles
-- ⚡ Optimized frontend performance
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🛠 Technical Expertise
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/saeedsalmeenalt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/saeedsalmeenalt1" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/skills-infographic.png" width="700" alt="Skills Infographic">
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 🏆 Portfolio Showcase
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/saeedaltrecy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saeedaltrecy" /></a></p><br><br>
 
-### 1. BinDowalPay Payment Platform
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/bindowalpay-showcase.png" width="800" alt="BinDowalPay Screenshot">
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedaltrecy&show_icons=true&locale=en&layout=compact" alt="saeedaltrecy" /></p>
 
-**Key Features**:
-- 💳 Secure payment gateway integration
-- 📱 Fully responsive transaction flows
-- 📊 Real-time analytics dashboard
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedaltrecy&show_icons=true&locale=en" alt="saeedaltrecy" /></p>
 
-**Tech Stack**:  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
-
----
-
-### 2. Arab Gypsum Corporate Portal
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/arabgypsum-showcase.png" width="800" alt="Arab Gypsum Screenshot">
-</div>
-
-**Key Features**:
-- 🌐 Bilingual UI implementation
-- 🖼️ Interactive product galleries
-- 📝 CMS-powered content
-
-**Tech Stack**:  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-FFD700?logo=internationalization&logoColor=black)
-
-## 🎨 Design Philosophy
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/design-process.png" width="700" alt="Design Process">
-</div>
-
-## 📈 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedalturaisi&show_icons=true&theme=vue-dark&hide_border=true" width="400" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedalturaisi&theme=vue-dark&hide_border=true" width="400" alt="GitHub Streak">
-</div>
-
-## 📫 Professional Contact
-<div align="center">
-  <a href="mailto:professional@example.com">
-    <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/email-badge.png" width="200" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/saeedalturaisi">
-    <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/linkedin-badge.png" width="200" alt="LinkedIn">
-  </a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedaltrecy&" alt="saeedaltrecy" /></p>
