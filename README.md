@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm saeedaltrecy</h1>
-<h3 align="center">I love transforming ideas into beautiful interactive interfaces using React.js, JavaScript, and HTML/CSS. I'm constantly striving to learn new technologies and skills to create great user experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedaltrecy&label=Profile%20views&color=0e75b6&style=flat" alt="saeedaltrecy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedaltrecy" alt="saeedaltrecy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 🎨 Saeed Al-Turaisi - Frontend Developer & UI/UX Designer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/saeedsalmeenalt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/saeedsalmeenalt1" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-Expert-9cf" alt="Frontend">
+  <img src="https://img.shields.io/badge/UI/UX_Designer-Creative-orange" alt="UI/UX">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🌟 Profile
+**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/saeedaltrecy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saeedaltrecy" /></a></p><br><br>
+## 🎨 Skills Showcase
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedaltrecy&show_icons=true&locale=en&layout=compact" alt="saeedaltrecy" /></p>
+### Design & Development Toolkit
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/skill-icons/main/design-dev-skills.png" width="800" alt="Skill Icons">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedaltrecy&show_icons=true&locale=en" alt="saeedaltrecy" /></p>
+## 🏆 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedaltrecy&" alt="saeedaltrecy" /></p>
+### 1. BinDowalPay Payment Platform
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/project-screenshots/main/bindowalpay-ui.png" width="800" alt="BinDowalPay Interface">
+  
+  **Live Demo**: [bindowalpay.arabwaredos.com](https://bindowalpay.arabwaredos.com/)
+  
+  <div>
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/html5-icon.png" width="60" alt="HTML5">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/css3-icon.png" width="60" alt="CSS3">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/js-icon.png" width="60" alt="JavaScript">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/vue-icon.png" width="60" alt="Vue.js">
+  </div>
+</div>
+
+### 2. Arab Gypsum Corporate Portal
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/project-screenshots/main/arabgypsum-ui.png" width="800" alt="Arab Gypsum Interface">
+  
+  **Live Demo**: [arabgypsum.com/ar](https://arabgypsum.com/ar)
+  
+  <div>
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/react-icon.png" width="60" alt="React">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/tailwind-icon.png" width="60" alt="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/tech-icons/main/i18n-icon.png" width="60" alt="i18n">
+  </div>
+</div>
+
+## 🛠 Workflow Visualized
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/workflow-visuals/main/design-process.png" width="700" alt="Design Process Flow">
+</div>
+
+## 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedalturaisi&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedalturaisi&layout=compact&theme=vue-dark&hide_border=true" width="400" alt="Top Languages">
+</div>
+
+## 📫 Let's Connect
+<div align="center">
+  <a href="mailto:professional@example.com">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/contact-icons/main/email-icon.png" width="120" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/saeedalturaisi">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/contact-icons/main/linkedin-icon.png" width="120" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/saeedalturaisi">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/contact-icons/main/github-icon.png" width="120" alt="GitHub">
+  </a>
+</div>
