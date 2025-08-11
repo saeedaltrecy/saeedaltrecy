@@ -1,4 +1,3 @@
-
 # 🎨 Saeed Al-Turaisi - Frontend Developer & UI/UX Designer
 
 <div align="center">
@@ -7,12 +6,9 @@
 </div>
 
 ## 🌟 Profile
-**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences. I focus on:
-- Creating attractive and intuitive user interfaces
-- Developing interactive and performant web applications
-- Ensuring excellent user experience (UX)
+**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences.
 
-## 🎨 Design & Development Skills
+## 🎨 Skills
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -30,26 +26,20 @@
 ## 🏆 Featured Projects
 
 ### 1. BinDowalPay
-- **Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)
-- **Description**: Payment platform interface
-- **Features**:
-  - Responsive design
-  - Secure payment flow
-   
+[![BinDowalPay Screenshot](https://via.placeholder.com/800x400?text=BinDowalPay+Screenshot)](https://bindowalpay.arabwaredos.com/)
 
+**Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)  
+**Technologies**: HTML5, CSS3, JavaScript  
 ### 2. Arab Gypsum
-- **Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)
-- **Description**: Corporate website for gypsum products
-- **Features**:
-  - Modern UI design
-  - Product showcase
-  - Multi-language support
+[![Arab Gypsum Screenshot](https://via.placeholder.com/800x400?text=Arab+Gypsum+Screenshot)](https://arabgypsum.com/ar)
 
-## 🛠 Work Tools
-- **Design**: Figma (exclusively)
+**Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)  
+**Technologies**: HTML5, CSS3, JavaScript  
+## 🛠 Workflow
+- **Design**: Figma
 - **Development**: VS Code
-- **Version Control**: Git/GitHub
-- **Testing**: Browser DevTools
+- **Version Control**:  GitHub
+- **Testing**: Chrome DevTools
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -64,9 +54,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </div>
-**Features**:
-  - Responsive design
-  - Secure payment flowحط مكانه التقنيات المستخدمه مثل html css
-,
-Frameworks & Libraries
-ابغا صور
