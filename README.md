@@ -29,7 +29,7 @@
 [![BinDowalPay Screenshot](https://via.placeholder.com/800x400?text=BinDowalPay+Screenshot)](https://bindowalpay.arabwaredos.com/)
 
 **Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)  
-**Technologies**: HTML5, CSS3, JavaScript, Vue.js, Tailwind CSS  
+**Technologies**: HTML5, CSS3, JavaScript,   
 **Features**:
 - Responsive payment interface
 - Secure transaction flow
@@ -39,7 +39,7 @@
 [![Arab Gypsum Screenshot](https://via.placeholder.com/800x400?text=Arab+Gypsum+Screenshot)](https://arabgypsum.com/ar)
 
 **Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)  
-**Technologies**: HTML5, CSS3, JavaScript, React  
+**Technologies**: HTML5, CSS3, JavaScript  
 **Features**:
 - Modern corporate design
 - Product catalog system
