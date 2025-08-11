@@ -1,66 +1,76 @@
 # 🎨 Saeed Al-Turaisi - Frontend Developer & UI/UX Designer
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-Expert-9cf" alt="Frontend">
-  <img src="https://img.shields.io/badge/UI/UX_Designer-Creative-orange" alt="UI/UX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38B2AC&center=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Digital+Experience+Creator" alt="Typing Animation">
 </div>
 
-## 🌟 Profile
-**Frontend Developer & UI/UX Designer** specializing in transforming ideas into beautiful, user-friendly digital experiences.
-
-## 🎨 Skills
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Core Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## 🏆 Featured Projects
-
-### 1. BinDowalPay
-[![BinDowalPay Screenshot](https://via.placeholder.com/800x400?text=BinDowalPay+Screenshot)](https://bindowalpay.arabwaredos.com/)
-
-**Live**: [https://bindowalpay.arabwaredos.com/](https://bindowalpay.arabwaredos.com/)  
-**Technologies**: HTML5, CSS3, JavaScript,   
-**Features**:
-- Responsive payment interface
-- Secure transaction flow
-- Dashboard analytics
-
-### 2. Arab Gypsum
-[![Arab Gypsum Screenshot](https://via.placeholder.com/800x400?text=Arab+Gypsum+Screenshot)](https://arabgypsum.com/ar)
-
-**Live**: [https://arabgypsum.com/ar](https://arabgypsum.com/ar)  
-**Technologies**: HTML5, CSS3, JavaScript  
-**Features**:
-- Modern corporate design
-- Product catalog system
-- Arabic/English language support
-
-## 🛠 Workflow
-- **Design**: Figma
-- **Development**: VS Code
-- **Version Control**: Git/GitHub
-- **Testing**: Chrome DevTools
-
-## 📊 GitHub Stats
+## 🌟 Professional Profile
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&hide=contribs" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue" alt="Top Languages">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/profile-banner.png" width="800" alt="Professional Banner">
 </div>
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+**Specializing in crafting elegant digital experiences** with:
+- ✨ Pixel-perfect UI implementations
+- 🎯 User-centered design principles
+- ⚡ Optimized frontend performance
+
+## 🛠 Technical Expertise
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/skills-infographic.png" width="700" alt="Skills Infographic">
+</div>
+
+## 🏆 Portfolio Showcase
+
+### 1. BinDowalPay Payment Platform
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/bindowalpay-showcase.png" width="800" alt="BinDowalPay Screenshot">
+</div>
+
+**Key Features**:
+- 💳 Secure payment gateway integration
+- 📱 Fully responsive transaction flows
+- 📊 Real-time analytics dashboard
+
+**Tech Stack**:  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white)
+
+---
+
+### 2. Arab Gypsum Corporate Portal
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/arabgypsum-showcase.png" width="800" alt="Arab Gypsum Screenshot">
+</div>
+
+**Key Features**:
+- 🌐 Bilingual UI implementation
+- 🖼️ Interactive product galleries
+- 📝 CMS-powered content
+
+**Tech Stack**:  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-FFD700?logo=internationalization&logoColor=black)
+
+## 🎨 Design Philosophy
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/design-process.png" width="700" alt="Design Process">
+</div>
+
+## 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedalturaisi&show_icons=true&theme=vue-dark&hide_border=true" width="400" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedalturaisi&theme=vue-dark&hide_border=true" width="400" alt="GitHub Streak">
+</div>
+
+## 📫 Professional Contact
+<div align="center">
+  <a href="mailto:professional@example.com">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/email-badge.png" width="200" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/saeedalturaisi">
+    <img src="https://raw.githubusercontent.com/saeedalturaisi/saeedalturaisi/main/linkedin-badge.png" width="200" alt="LinkedIn">
+  </a>
 </div>
